@@ -1,0 +1,132 @@
+[
+  {
+    "id": "STU001",
+    "name": "Ayaan Rahman",
+    "class": 10,
+    "roll": 1,
+    "phone": "01710000001",
+    "subjects": ["Math", "English", "Science"],
+    "marks": {
+      "math": 95,
+      "english": 88,
+      "science": 91
+    }
+  },
+  {
+    "id": "STU002",
+    "name": "Nusrat Jahan",
+    "class": 10,
+    "roll": 2,
+    "phone": "01710000002",
+    "subjects": ["Math", "English", "Science"],
+    "marks": {
+      "math": 82,
+      "english": 90,
+      "science": 85
+    }
+  },
+  {
+    "id": "STU003",
+    "name": "Rakib Hasan",
+    "class": 10,
+    "roll": 3,
+    "phone": "01710000003",
+    "subjects": ["Math", "English", "Science"],
+    "marks": {
+      "math": 76,
+      "english": 81,
+      "science": 79
+    }
+  },
+  {
+    "id": "STU004",
+    "name": "Mim Akter",
+    "class": 10,
+    "roll": 4,
+    "phone": "01710000004",
+    "subjects": ["Math", "English", "Science"],
+    "marks": {
+      "math": 89,
+      "english": 94,
+      "science": 92
+    }
+  },
+  {
+    "id": "STU005",
+    "name": "Sabbir Ahmed",
+    "class": 10,
+    "roll": 5,
+    "phone": "01710000005",
+    "subjects": ["Math", "English", "Science"],
+    "marks": {
+      "math": 68,
+      "english": 74,
+      "science": 72
+    }
+  },
+  {
+    "id": "STU006",
+    "name": "Farzana Islam",
+    "class": 10,
+    "roll": 6,
+    "phone": "01710000006",
+    "subjects": ["Math", "English", "Science"],
+    "marks": {
+      "math": 91,
+      "english": 87,
+      "science": 89
+    }
+  },
+  {
+    "id": "STU007",
+    "name": "Tanvir Hossain",
+    "class": 10,
+    "roll": 7,
+    "phone": "01710000007",
+    "subjects": ["Math", "English", "Science"],
+    "marks": {
+      "math": 84,
+      "english": 80,
+      "science": 86
+    }
+  },
+  {
+    "id": "STU008",
+    "name": "Priya Das",
+    "class": 10,
+    "roll": 8,
+    "phone": "01710000008",
+    "subjects": ["Math", "English", "Science"],
+    "marks": {
+      "math": 97,
+      "english": 95,
+      "science": 98
+    }
+  },
+  {
+    "id": "STU009",
+    "name": "Mahin Chowdhury",
+    "class": 10,
+    "roll": 9,
+    "phone": "01710000009",
+    "subjects": ["Math", "English", "Science"],
+    "marks": {
+      "math": 73,
+      "english": 78,
+      "science": 75
+    }
+  },
+  {
+    "id": "STU010",
+    "name": "Sadia Noor",
+    "class": 10,
+    "roll": 10,
+    "phone": "01710000010",
+    "subjects": ["Math", "English", "Science"],
+    "marks": {
+      "math": 88,
+      "english": 92,
+      "science": 90
+    }
+  }
+]
