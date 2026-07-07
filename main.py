@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Path,HTTPException
 import json
 
 app = FastAPI()
@@ -22,14 +22,14 @@ def about():
 
 @app.get("/view-students")
 def view_students():
-    data = load_data()
-    return data
+    data = load_data()  
+    return data 
 
 
 @app.get("/view-student/{id}")
-def view_student_by_id(id: str):
+def view_student_by_id(id: str=Path(..., description="The ID of the student to retrieve",example="STU001")):
     data = load_data()
     for student in data:
         if student["id"] == id:
             return student
-    return {"error": "Student not found"}
+    raise HTTPException(status_code=404, detail="Student not found")
